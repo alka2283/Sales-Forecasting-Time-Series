@@ -98,6 +98,12 @@ to support strategic planning and decision-making.
 * Enabled data-driven forecasting instead of relying solely on historical observations.
 * Established a scalable forecasting framework for future business applications.
 
+## Project Files
+
+## Project Files
+
+📓 Jupyter Notebook: [Time Series Project - Sales Forecasting.ipynb](Time Series Project - Sales Forecasting.ipynb)
+
 ## Tools & Technologies
 
 * Python
