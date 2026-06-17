@@ -102,7 +102,7 @@ to support strategic planning and decision-making.
 
 ## Project Files
 
-📓 Jupyter Notebook: [Time Series Project - Sales Forecasting.ipynb](Time Series Project - Sales Forecasting.ipynb)
+📓 Jupyter Notebook: [Sales_Forecasting.ipynb.ipynb](Sales_Forecasting.ipynb)
 
 ## Tools & Technologies
 
