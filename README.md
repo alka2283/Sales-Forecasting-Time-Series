@@ -16,7 +16,11 @@ The project was designed to answer key business questions:
 * Which forecasting model provides the most reliable predictions?
 
 ---
+## Project Files
+📂 Dataset used in this project:
 
+[Sales Data](sales_data.csv)
+---
 ## Project Workflow
 ### 1. Exploratory Data Analysis (EDA)
 
@@ -83,6 +87,7 @@ Generated:
 
 to support strategic planning and decision-making.
 
+---
 ## Key Insights
 
 * Identified recurring seasonal sales patterns and long-term growth trends.
@@ -91,6 +96,7 @@ to support strategic planning and decision-making.
 * Improved visibility into future demand fluctuations.
 * Enabled proactive planning through data-driven forecasting.
 
+---
 ## Business Impact
 * Supported production and inventory planning with forward-looking demand estimates.
 * Improved visibility into future sales trends.
@@ -98,12 +104,11 @@ to support strategic planning and decision-making.
 * Enabled data-driven forecasting instead of relying solely on historical observations.
 * Established a scalable forecasting framework for future business applications.
 
-## Project Files
-
+---
 ## Project Files
 
 📓 Jupyter Notebook: [Sales_Forecasting.ipynb.ipynb](Sales_Forecasting.ipynb)
-
+---
 ## Tools & Technologies
 
 * Python
@@ -115,18 +120,21 @@ to support strategic planning and decision-making.
 * Seaborn
 * Jupyter Notebook
 
+---
+
 ## Skills Demonstrated
 
 * Time Series Forecasting
 * SARIMA / SARIMAX Modeling
 * Statistical Analysis
-* Stationarity Testing
-* Forecast Validation
 * Feature Engineering
 * Model Benchmarking
-* Rolling Cross-Validation
 * Forecast Accuracy Evaluation
-* Business Analytics
-* Data Visualization
 * Demand Forecasting
 * Python Programming
+
+---
+##  Final Forecast
+###  Final 12 Month Forecast
+
+![12 Month Forecast](12%20Month%20Forecast.png)
